@@ -1,0 +1,13 @@
+/* This file holds styles that apply to the WHOLE app, not just one page. */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; /* makes width/height math easier */
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f6fb;
+  color: #222;
+}

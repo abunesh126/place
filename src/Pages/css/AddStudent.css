@@ -1,0 +1,8 @@
+/* Puts the Sidebar on the left and content on the right */
+.page-layout {
+  display: flex;
+}
+
+.page-content {
+  padding: 30px;
+}

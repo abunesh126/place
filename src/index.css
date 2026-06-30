@@ -1,0 +1,6 @@
+/* Makes the app fill the full height of the browser window */
+html,
+body,
+#root {
+  height: 100%;
+}

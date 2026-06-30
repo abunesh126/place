@@ -1,0 +1,26 @@
+.page-layout {
+  display: flex;
+}
+
+.page-content {
+  padding: 30px;
+  width: 100%;
+}
+
+.student-table {
+  width: 100%;
+  border-collapse: collapse; /* removes double borders between cells */
+  background-color: white;
+}
+
+.student-table th,
+.student-table td {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+  text-align: left;
+}
+
+.student-table th {
+  background-color: #1e2538;
+  color: white;
+}
